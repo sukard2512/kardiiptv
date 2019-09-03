@@ -169,14 +169,9 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?v=
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=
 
 ######################################### SPORT2 #################################
-#EXTINF:-1 group-title="sport",SP: Astro Supersports 1 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/44417.m3u8
-#EXTINF:-1 group-title="sport",SP: Astro Supersports 2 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/44418.m3u8
-#EXTINF:-1 group-title="sport",SP: Astro Supersports 3 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/44419.m3u8
-#EXTINF:-1 group-title="sport",SP: Astro Supersports 4 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/44420.m3u8
+
+
+
 ######################################## MOVIES  #################################
 #EXTINF:-1 group-title="movies",ZEE BIOSKOP
 https://cdnjt25.useetv.com/joss/14/zbioskop/chunklist_w1237066615_b684100_sleng.m3u8
